@@ -17,7 +17,7 @@ Exemplo:
 Diretório C: para baixar os arquivos do projeto
 ````
 - Acessar o git Bash, ir até a pasta criada.
-- Realizar o clone do projeto https://github.com/matheusangellos/desafio_api.git usando o comando Git Clone e a URL
+- Realizar o clone do projeto https://gitlab.com/matheusangellos/desafio_api.git usando o comando Git Clone e a URL
 - Garantir que as dependências tenham sido baixadas.
 
 
